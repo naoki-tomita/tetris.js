@@ -228,7 +228,7 @@ const BLOCK_DEF = [
 ];
 
 const BOARD_WIDTH = 10;
-const BOARD_HEIGHT = 20
+const BOARD_HEIGHT = 15;
 const BLOCK_SIZE = 40;
 const BORDER_WIDTH = 4;
 const INNER_WIDTH = BLOCK_SIZE - (BORDER_WIDTH * 2);
