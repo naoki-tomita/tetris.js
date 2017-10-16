@@ -1,4 +1,6 @@
 # tetris.js
+* ES2015(class, Array method, Spread operator)
+* Use canvas for display Game.
 
 # demo
 [here](https://naoki-tomita.github.io/tetris.js/)
