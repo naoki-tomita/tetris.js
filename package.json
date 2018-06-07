@@ -19,6 +19,7 @@
   "scripts": {
     "clean": "rm -r -f ./dist",
     "prebuild": "run-p clean",
-    "build": "webpack --config ./webpack.config.ts"
+    "build": "webpack --config ./webpack.config.ts",
+    "serve": "ws"
   }
 }
